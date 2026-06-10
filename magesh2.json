@@ -1,0 +1,15 @@
+<script type='application/ld+json'> 
+{
+  "@context": "http://www.schema.org",
+  "@type": "product",
+  "brand": "SAMSUNG ",
+  "name": "SAMSUNG S23 UITRA",
+  "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/mobile/t/0/g/-original-imah4zp7fvqp8wev.jpeg?q=90",
+  "description": "Best features in phone , best camera phone ,gaming performance ",
+  "aggregateRating": {
+    "@type": "aggregateRating",
+    "ratingValue": "5",
+    "reviewCount": "10000000"
+  }
+}
+ </script>
